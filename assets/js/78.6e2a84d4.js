@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[78],{562:function(e,t,s){"use strict";s.r(t);var a={data:()=>({searchItems:[{label:"姓名",name:"name",type:"text"},{label:"电话",name:"phone",type:"text"}]})},n=s(1),l=Object(n.a)(a,(function(){return(0,this._self._c)("s-search-form",{attrs:{items:this.searchItems}})}),[],!1,null,null,null);t.default=l.exports}}]);

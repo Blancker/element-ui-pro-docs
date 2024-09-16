@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[46],{530:function(n,t,e){"use strict";e.r(t);var r={},s=e(1),a=Object(s.a)(r,(function(){var n=this,t=n._self._c;return t("s-space",{attrs:{vertical:""}},n._l(3,(function(e){return t("el-card",{key:e,attrs:{shadow:"never"}},[n._v("卡片 "+n._s(e))])})),1)}),[],!1,null,null,null);t.default=a.exports}}]);
